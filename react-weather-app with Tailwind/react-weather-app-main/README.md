@@ -1,4 +1,4 @@
-# React.js weather app with Tailwind UI stylesheet
+# React.js weather app with Tailwind UI 
 
 *This project was created with React.JS, Location API and Weather API. That project provides you get full-listed properties for weather by your location and any else location you type.*
 
