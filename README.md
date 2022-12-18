@@ -10,8 +10,8 @@ You must install all dependencies
 
 # Start application
 Make sure you in root/app folder and then run:
-yarn start 
+>yarn start 
 
-# open browser by default
-localhost:3000
+# Open browser by default
+>localhost:3000
 
