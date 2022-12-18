@@ -6,7 +6,7 @@ This project was created with React.JS, Location API and Weather API. That proje
 
 # Installation
 You must install all dependencies
-yarn install
+>yarn install
 
 # Start application
 Make sure you in root/app folder and then run:
