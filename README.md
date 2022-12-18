@@ -12,5 +12,6 @@ yarn install
 Make sure you in root/app folder and then run:
 yarn start 
 
-# open browser by default: localhost:3000
+# open browser by default
+localhost:3000
 
